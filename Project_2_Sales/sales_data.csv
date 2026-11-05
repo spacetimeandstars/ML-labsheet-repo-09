@@ -1,0 +1,501 @@
+Order_Date,Order_ID,Customer_ID,Segment,Product,Category,Region,Sales,Profit,Quantity
+2025-01-01,ORD10058,CUST0031,Home Office,Office Chair,Furniture,West,18744.09,1503.25,2
+2025-01-02,ORD10495,CUST0051,Corporate,Headphones,Technology,Central,14861.02,2005.87,4
+2025-01-03,ORD10439,CUST0063,Corporate,Printer,Technology,Central,34860.16,6940.97,3
+2025-01-04,ORD10109,CUST0057,Home Office,Printer,Technology,South,27538.18,6420.47,4
+2025-01-04,ORD10183,CUST0045,Consumer,Mobile Phone,Technology,East,30191.92,7185.86,2
+2025-01-05,ORD10206,CUST0148,Consumer,Monitor,Technology,West,75709.16,14208.26,4
+2025-01-05,ORD10288,CUST0139,Consumer,Printer,Technology,West,69117.74,14693.35,5
+2025-01-06,ORD10430,CUST0097,Corporate,Monitor,Technology,East,65409.95,8177.24,5
+2025-01-06,ORD10488,CUST0048,Consumer,Desk,Furniture,North,86556.29,18720.21,5
+2025-01-07,ORD10242,CUST0001,Corporate,Pen Set,Office Supplies,South,648.26,164.07,3
+2025-01-07,ORD10282,CUST0024,Consumer,Office Chair,Furniture,Central,5309.86,1412.18,1
+2025-01-08,ORD10446,CUST0100,Corporate,Mobile Phone,Technology,West,21556.51,4369.91,1
+2025-01-08,ORD10172,CUST0010,Corporate,Monitor,Technology,West,35536.0,7993.73,3
+2025-01-08,ORD10188,CUST0090,Consumer,Desk,Furniture,Central,84878.95,8118.82,5
+2025-01-09,ORD10331,CUST0044,Corporate,Notebook,Office Supplies,South,106.4,8.95,1
+2025-01-09,ORD10460,CUST0064,Consumer,Printer,Technology,North,31150.94,6130.9,4
+2025-01-09,ORD10189,CUST0046,Consumer,Headphones,Technology,South,43435.15,4212.99,5
+2025-01-10,ORD10381,CUST0092,Consumer,Pen Set,Office Supplies,Central,442.96,120.41,3
+2025-01-12,ORD10420,CUST0115,Consumer,Notebook,Office Supplies,North,172.83,24.68,1
+2025-01-12,ORD10066,CUST0132,Consumer,Pen Set,Office Supplies,West,412.99,78.66,2
+2025-01-13,ORD10387,CUST0077,Consumer,Laptop,Technology,West,218088.46,19281.92,4
+2025-01-14,ORD10139,CUST0038,Consumer,Office Chair,Furniture,North,20506.14,1980.63,3
+2025-01-14,ORD10017,CUST0138,Consumer,Desk,Furniture,East,58380.35,5054.19,5
+2025-01-16,ORD10476,CUST0145,Consumer,Printer,Technology,Central,11747.02,2100.16,1
+2025-01-16,ORD10264,CUST0044,Consumer,Printer,Technology,North,23951.22,2673.76,2
+2025-01-17,ORD10255,CUST0149,Consumer,Pen Set,Office Supplies,West,224.47,57.54,2
+2025-01-17,ORD10236,CUST0007,Consumer,Printer,Technology,East,29198.3,4672.12,3
+2025-01-18,ORD10406,CUST0012,Corporate,Notebook,Office Supplies,South,563.12,114.71,5
+2025-01-19,ORD10001,CUST0127,Consumer,Headphones,Technology,West,4160.49,1109.51,3
+2025-01-21,ORD10165,CUST0003,Consumer,Pen Set,Office Supplies,North,1081.61,224.6,5
+2025-01-21,ORD10184,CUST0028,Consumer,Monitor,Technology,East,33477.01,4934.42,2
+2025-01-23,ORD10303,CUST0148,Home Office,Printer,Technology,West,22275.98,5297.86,3
+2025-01-24,ORD10182,CUST0129,Consumer,Notebook,Office Supplies,West,395.19,38.6,5
+2025-01-25,ORD10301,CUST0032,Home Office,Office Chair,Furniture,South,11900.82,3253.26,1
+2025-01-27,ORD10200,CUST0009,Corporate,Printer,Technology,North,13993.19,2881.44,1
+2025-01-27,ORD10372,CUST0045,Corporate,Pen Set,Office Supplies,East,738.03,187.19,4
+2025-01-27,ORD10036,CUST0137,Consumer,Notebook,Office Supplies,West,41.22,4.21,1
+2025-01-28,ORD10316,CUST0113,Consumer,Headphones,Technology,East,5646.84,1153.98,1
+2025-01-29,ORD10489,CUST0067,Home Office,Notebook,Office Supplies,Central,563.07,131.83,5
+2025-01-29,ORD10300,CUST0010,Consumer,Headphones,Technology,North,9608.73,2600.93,3
+2025-01-30,ORD10143,CUST0110,Consumer,Notebook,Office Supplies,East,132.14,21.67,2
+2025-01-31,ORD10023,CUST0010,Consumer,Laptop,Technology,North,295807.48,43206.7,5
+2025-01-31,ORD10271,CUST0073,Corporate,Headphones,Technology,Central,7702.09,726.82,2
+2025-02-01,ORD10004,CUST0041,Consumer,Laptop,Technology,North,312742.88,31386.0,4
+2025-02-02,ORD10366,CUST0135,Consumer,Laptop,Technology,West,228171.3,33516.67,5
+2025-02-03,ORD10485,CUST0021,Consumer,Office Chair,Furniture,South,24301.17,2356.12,4
+2025-02-04,ORD10359,CUST0037,Consumer,Laptop,Technology,Central,78578.16,18089.97,1
+2025-02-04,ORD10056,CUST0048,Corporate,Desk,Furniture,West,33088.52,7653.69,2
+2025-02-05,ORD10343,CUST0052,Corporate,Printer,Technology,West,27330.13,3546.79,2
+2025-02-05,ORD10455,CUST0126,Consumer,Pen Set,Office Supplies,North,353.49,60.66,4
+2025-02-06,ORD10454,CUST0029,Consumer,Headphones,Technology,Central,6760.88,1727.96,2
+2025-02-07,ORD10491,CUST0131,Consumer,Desk,Furniture,North,67768.5,6642.06,5
+2025-02-07,ORD10256,CUST0013,Consumer,Pen Set,Office Supplies,East,493.66,48.49,4
+2025-02-07,ORD10191,CUST0122,Consumer,Office Chair,Furniture,East,27031.55,7178.81,3
+2025-02-08,ORD10237,CUST0020,Consumer,Mobile Phone,Technology,South,110963.22,12058.37,5
+2025-02-08,ORD10167,CUST0090,Home Office,Monitor,Technology,Central,22574.81,5415.04,1
+2025-02-08,ORD10071,CUST0059,Consumer,Monitor,Technology,West,101498.2,23339.09,5
+2025-02-09,ORD10111,CUST0090,Consumer,Office Chair,Furniture,East,39326.86,9444.05,3
+2025-02-09,ORD10428,CUST0090,Consumer,Pen Set,Office Supplies,West,303.26,36.1,1
+2025-02-10,ORD10175,CUST0061,Consumer,Monitor,Technology,West,43563.01,9732.15,5
+2025-02-12,ORD10394,CUST0006,Corporate,Monitor,Technology,North,41201.34,3913.48,5
+2025-02-13,ORD10035,CUST0002,Corporate,Mobile Phone,Technology,Central,204974.42,54397.36,4
+2025-02-15,ORD10357,CUST0068,Consumer,Pen Set,Office Supplies,East,343.31,41.54,4
+2025-02-16,ORD10158,CUST0127,Consumer,Desk,Furniture,North,9149.07,1782.34,1
+2025-02-16,ORD10205,CUST0117,Consumer,Office Chair,Furniture,West,12329.92,2881.54,1
+2025-02-17,ORD10329,CUST0006,Home Office,Headphones,Technology,South,24752.0,5599.59,3
+2025-02-18,ORD10405,CUST0001,Consumer,Desk,Furniture,South,11748.23,2876.53,1
+2025-02-20,ORD10273,CUST0033,Corporate,Desk,Furniture,West,21936.51,6052.82,1
+2025-02-21,ORD10377,CUST0045,Corporate,Mobile Phone,Technology,Central,272052.98,40277.89,5
+2025-02-21,ORD10410,CUST0011,Corporate,Mobile Phone,Technology,West,309025.87,28901.34,5
+2025-02-21,ORD10400,CUST0047,Consumer,Notebook,Office Supplies,North,226.05,33.65,2
+2025-02-21,ORD10219,CUST0010,Corporate,Notebook,Office Supplies,South,602.9,74.75,5
+2025-02-22,ORD10445,CUST0096,Home Office,Desk,Furniture,East,27362.46,3857.86,2
+2025-02-22,ORD10055,CUST0081,Consumer,Notebook,Office Supplies,South,809.23,119.23,5
+2025-02-23,ORD10482,CUST0072,Consumer,Notebook,Office Supplies,Central,429.44,109.72,4
+2025-02-24,ORD10364,CUST0049,Consumer,Printer,Technology,West,14147.83,1333.2,1
+2025-02-24,ORD10214,CUST0091,Corporate,Desk,Furniture,East,63705.32,13411.6,4
+2025-02-25,ORD10085,CUST0141,Corporate,Desk,Furniture,West,18011.4,3317.19,1
+2025-02-25,ORD10497,CUST0139,Consumer,Notebook,Office Supplies,East,72.56,6.83,1
+2025-02-25,ORD10402,CUST0085,Consumer,Notebook,Office Supplies,North,748.53,98.59,5
+2025-02-26,ORD10192,CUST0019,Consumer,Pen Set,Office Supplies,Central,772.16,81.52,2
+2025-02-26,ORD10312,CUST0089,Consumer,Mobile Phone,Technology,East,81163.25,16508.98,2
+2025-02-26,ORD10070,CUST0128,Consumer,Notebook,Office Supplies,East,678.93,168.15,5
+2025-02-27,ORD10091,CUST0106,Corporate,Pen Set,Office Supplies,East,296.79,70.95,1
+2025-03-01,ORD10269,CUST0037,Consumer,Laptop,Technology,North,297326.79,28979.84,4
+2025-03-03,ORD10074,CUST0070,Corporate,Headphones,Technology,South,1640.64,412.12,2
+2025-03-05,ORD10334,CUST0021,Corporate,Mobile Phone,Technology,East,160142.33,13883.81,4
+2025-03-05,ORD10145,CUST0019,Home Office,Keyboard,Technology,North,13804.34,2098.07,5
+2025-03-06,ORD10272,CUST0105,Consumer,Keyboard,Technology,North,2605.07,451.59,2
+2025-03-06,ORD10176,CUST0096,Home Office,Monitor,Technology,North,35259.75,9001.07,3
+2025-03-06,ORD10171,CUST0011,Consumer,Headphones,Technology,West,8687.15,2388.9,4
+2025-03-07,ORD10263,CUST0087,Consumer,Desk,Furniture,West,54313.59,5326.63,5
+2025-03-07,ORD10208,CUST0145,Consumer,Office Chair,Furniture,North,6342.78,923.31,1
+2025-03-08,ORD10319,CUST0092,Home Office,Printer,Technology,Central,50666.95,5020.93,3
+2025-03-08,ORD10052,CUST0118,Consumer,Mobile Phone,Technology,Central,58851.27,8502.11,2
+2025-03-10,ORD10160,CUST0009,Home Office,Headphones,Technology,Central,14065.88,3010.36,4
+2025-03-10,ORD10403,CUST0030,Home Office,Printer,Technology,West,24146.93,4924.42,4
+2025-03-11,ORD10487,CUST0072,Consumer,Laptop,Technology,East,390002.59,74715.66,5
+2025-03-11,ORD10297,CUST0013,Consumer,Printer,Technology,West,29220.47,7887.21,2
+2025-03-11,ORD10393,CUST0102,Corporate,Printer,Technology,North,39770.95,3852.57,3
+2025-03-13,ORD10221,CUST0082,Home Office,Pen Set,Office Supplies,Central,314.02,54.64,4
+2025-03-13,ORD10293,CUST0079,Consumer,Printer,Technology,West,47575.99,8015.5,3
+2025-03-13,ORD10077,CUST0040,Consumer,Desk,Furniture,Central,39042.89,6356.4,2
+2025-03-14,ORD10349,CUST0020,Corporate,Mobile Phone,Technology,West,298186.48,67136.7,5
+2025-03-15,ORD10278,CUST0084,Corporate,Monitor,Technology,South,27570.39,6902.9,2
+2025-03-16,ORD10216,CUST0104,Home Office,Monitor,Technology,North,83656.25,18495.55,4
+2025-03-16,ORD10120,CUST0101,Corporate,Monitor,Technology,East,19441.48,2513.69,2
+2025-03-16,ORD10443,CUST0144,Consumer,Printer,Technology,West,18168.48,4270.44,2
+2025-03-18,ORD10411,CUST0003,Corporate,Printer,Technology,East,80415.06,7564.02,5
+2025-03-20,ORD10067,CUST0026,Consumer,Notebook,Office Supplies,South,338.7,56.38,3
+2025-03-20,ORD10344,CUST0073,Corporate,Monitor,Technology,Central,14737.43,2370.23,2
+2025-03-21,ORD10054,CUST0115,Consumer,Laptop,Technology,West,53453.63,4708.54,1
+2025-03-22,ORD10336,CUST0122,Consumer,Pen Set,Office Supplies,Central,121.87,26.58,2
+2025-03-22,ORD10253,CUST0004,Home Office,Notebook,Office Supplies,Central,131.95,12.48,3
+2025-03-23,ORD10006,CUST0090,Consumer,Notebook,Office Supplies,North,95.11,21.07,1
+2025-03-23,ORD10234,CUST0102,Corporate,Printer,Technology,North,69798.92,12785.2,5
+2025-03-23,ORD10098,CUST0050,Home Office,Notebook,Office Supplies,West,112.98,16.81,1
+2025-03-23,ORD10266,CUST0030,Consumer,Keyboard,Technology,Central,2983.29,550.05,3
+2025-03-24,ORD10125,CUST0098,Home Office,Office Chair,Furniture,West,68124.84,13922.15,5
+2025-03-25,ORD10166,CUST0046,Consumer,Pen Set,Office Supplies,North,1151.14,288.02,5
+2025-03-25,ORD10195,CUST0073,Consumer,Keyboard,Technology,West,13527.75,2849.19,5
+2025-03-26,ORD10086,CUST0143,Corporate,Desk,Furniture,South,59280.2,6042.5,3
+2025-03-26,ORD10295,CUST0128,Consumer,Laptop,Technology,North,266500.78,35167.35,4
+2025-03-28,ORD10012,CUST0133,Consumer,Printer,Technology,North,24592.02,6310.94,2
+2025-03-30,ORD10129,CUST0121,Corporate,Office Chair,Furniture,North,27462.83,2781.37,5
+2025-03-30,ORD10352,CUST0015,Home Office,Office Chair,Furniture,West,13780.24,1471.5,3
+2025-03-31,ORD10262,CUST0022,Home Office,Headphones,Technology,South,1863.77,408.09,1
+2025-04-01,ORD10432,CUST0107,Corporate,Laptop,Technology,East,175938.56,19502.56,3
+2025-04-01,ORD10463,CUST0020,Consumer,Desk,Furniture,East,15947.18,1758.36,2
+2025-04-01,ORD10247,CUST0114,Consumer,Printer,Technology,East,16976.48,3259.68,2
+2025-04-02,ORD10102,CUST0029,Consumer,Notebook,Office Supplies,West,422.36,110.19,4
+2025-04-02,ORD10391,CUST0143,Corporate,Mobile Phone,Technology,South,238080.67,26487.62,4
+2025-04-02,ORD10087,CUST0034,Consumer,Monitor,Technology,South,49839.97,8296.61,3
+2025-04-04,ORD10177,CUST0006,Corporate,Office Chair,Furniture,South,22411.37,2173.27,4
+2025-04-05,ORD10358,CUST0144,Consumer,Mobile Phone,Technology,North,54730.27,5536.67,1
+2025-04-06,ORD10104,CUST0141,Consumer,Office Chair,Furniture,East,12537.7,2213.93,1
+2025-04-09,ORD10401,CUST0042,Consumer,Printer,Technology,South,54117.41,9961.45,4
+2025-04-09,ORD10471,CUST0082,Corporate,Headphones,Technology,East,31553.97,4292.61,4
+2025-04-09,ORD10417,CUST0075,Consumer,Printer,Technology,West,63951.33,7455.49,4
+2025-04-09,ORD10138,CUST0082,Corporate,Printer,Technology,South,17044.62,2417.78,2
+2025-04-11,ORD10180,CUST0107,Consumer,Pen Set,Office Supplies,South,566.32,76.81,4
+2025-04-13,ORD10418,CUST0029,Consumer,Desk,Furniture,Central,18485.74,3904.01,3
+2025-04-14,ORD10466,CUST0053,Corporate,Monitor,Technology,South,61468.57,12882.58,5
+2025-04-14,ORD10399,CUST0122,Corporate,Printer,Technology,East,12293.17,1292.32,2
+2025-04-15,ORD10378,CUST0052,Home Office,Headphones,Technology,West,2028.63,238.06,1
+2025-04-15,ORD10408,CUST0105,Corporate,Keyboard,Technology,Central,641.08,146.35,1
+2025-04-15,ORD10100,CUST0097,Consumer,Headphones,Technology,East,14657.67,3886.75,3
+2025-04-16,ORD10083,CUST0024,Home Office,Printer,Technology,West,34053.83,7868.97,2
+2025-04-17,ORD10499,CUST0031,Consumer,Printer,Technology,North,27013.56,6192.07,3
+2025-04-20,ORD10228,CUST0101,Consumer,Desk,Furniture,North,5032.81,1361.81,1
+2025-04-21,ORD10126,CUST0025,Consumer,Monitor,Technology,West,24545.42,4177.21,2
+2025-04-21,ORD10283,CUST0086,Consumer,Keyboard,Technology,West,8151.32,1545.92,3
+2025-04-22,ORD10423,CUST0049,Consumer,Monitor,Technology,East,105746.81,10958.14,5
+2025-04-23,ORD10081,CUST0093,Corporate,Keyboard,Technology,North,6160.41,1674.49,4
+2025-04-24,ORD10371,CUST0119,Corporate,Headphones,Technology,Central,2701.47,308.98,2
+2025-04-24,ORD10326,CUST0042,Consumer,Printer,Technology,East,31157.08,8020.08,2
+2025-04-26,ORD10385,CUST0019,Consumer,Keyboard,Technology,West,10510.32,2939.22,3
+2025-04-26,ORD10174,CUST0125,Corporate,Headphones,Technology,Central,9397.9,2361.68,4
+2025-04-28,ORD10119,CUST0115,Consumer,Office Chair,Furniture,West,66616.42,5382.65,5
+2025-04-28,ORD10140,CUST0020,Consumer,Office Chair,Furniture,East,10329.13,1687.89,2
+2025-04-29,ORD10459,CUST0021,Consumer,Pen Set,Office Supplies,Central,1173.96,172.4,5
+2025-04-29,ORD10494,CUST0108,Consumer,Mobile Phone,Technology,West,13570.49,3771.67,1
+2025-04-29,ORD10243,CUST0006,Home Office,Laptop,Technology,South,125632.14,17711.9,2
+2025-04-29,ORD10435,CUST0084,Consumer,Notebook,Office Supplies,East,167.8,28.16,2
+2025-04-30,ORD10425,CUST0141,Consumer,Headphones,Technology,South,13026.37,1782.02,3
+2025-04-30,ORD10078,CUST0013,Consumer,Laptop,Technology,South,141345.82,11325.82,2
+2025-05-01,ORD10007,CUST0121,Consumer,Notebook,Office Supplies,South,120.65,30.09,1
+2025-05-01,ORD10156,CUST0115,Consumer,Desk,Furniture,South,30269.99,2708.46,3
+2025-05-02,ORD10154,CUST0109,Consumer,Printer,Technology,East,52813.12,5199.53,4
+2025-05-03,ORD10380,CUST0121,Corporate,Mobile Phone,Technology,South,40846.46,7067.81,3
+2025-05-03,ORD10484,CUST0004,Consumer,Pen Set,Office Supplies,South,200.93,28.07,1
+2025-05-03,ORD10433,CUST0086,Home Office,Headphones,Technology,North,27861.95,3349.1,5
+2025-05-03,ORD10043,CUST0116,Corporate,Mobile Phone,Technology,East,83622.49,10571.23,3
+2025-05-04,ORD10211,CUST0009,Corporate,Printer,Technology,North,28451.13,4778.96,3
+2025-05-05,ORD10370,CUST0138,Corporate,Mobile Phone,Technology,South,41208.4,9332.21,3
+2025-05-05,ORD10113,CUST0001,Consumer,Laptop,Technology,East,232667.03,56020.76,4
+2025-05-06,ORD10450,CUST0042,Home Office,Notebook,Office Supplies,South,330.59,81.42,2
+2025-05-08,ORD10101,CUST0066,Consumer,Pen Set,Office Supplies,North,690.04,153.34,3
+2025-05-09,ORD10395,CUST0042,Corporate,Desk,Furniture,South,75051.39,12052.69,4
+2025-05-09,ORD10238,CUST0131,Consumer,Desk,Furniture,West,18774.95,4148.79,1
+2025-05-12,ORD10232,CUST0148,Consumer,Desk,Furniture,West,65331.5,16324.92,3
+2025-05-12,ORD10241,CUST0105,Consumer,Notebook,Office Supplies,East,458.95,83.65,3
+2025-05-12,ORD10095,CUST0009,Corporate,Mobile Phone,Technology,South,88473.87,15411.3,3
+2025-05-14,ORD10061,CUST0112,Consumer,Headphones,Technology,East,7293.15,1241.51,1
+2025-05-14,ORD10477,CUST0056,Home Office,Printer,Technology,North,30493.42,2554.44,2
+2025-05-15,ORD10332,CUST0105,Consumer,Desk,Furniture,Central,40655.34,10212.38,3
+2025-05-17,ORD10424,CUST0022,Consumer,Keyboard,Technology,South,11744.34,2322.49,5
+2025-05-18,ORD10440,CUST0081,Consumer,Printer,Technology,Central,34061.33,5283.63,2
+2025-05-18,ORD10335,CUST0119,Consumer,Headphones,Technology,East,4690.21,614.61,1
+2025-05-19,ORD10121,CUST0122,Consumer,Printer,Technology,South,34837.36,7357.98,4
+2025-05-19,ORD10348,CUST0017,Consumer,Headphones,Technology,South,11632.87,3224.29,2
+2025-05-20,ORD10199,CUST0128,Home Office,Desk,Furniture,East,16027.37,1786.88,3
+2025-05-24,ORD10436,CUST0123,Home Office,Office Chair,Furniture,North,21574.37,4990.22,4
+2025-05-25,ORD10079,CUST0049,Consumer,Office Chair,Furniture,East,44163.38,8542.16,4
+2025-05-27,ORD10117,CUST0023,Consumer,Headphones,Technology,Central,8788.39,1207.24,2
+2025-05-27,ORD10075,CUST0136,Home Office,Pen Set,Office Supplies,South,285.59,69.48,3
+2025-05-30,ORD10002,CUST0033,Consumer,Desk,Furniture,North,62782.23,11879.08,3
+2025-05-30,ORD10037,CUST0099,Home Office,Headphones,Technology,North,6113.3,573.22,1
+2025-05-30,ORD10150,CUST0015,Consumer,Monitor,Technology,East,20498.13,3385.11,2
+2025-05-31,ORD10429,CUST0026,Corporate,Headphones,Technology,East,4059.67,748.6,4
+2025-05-31,ORD10149,CUST0081,Corporate,Monitor,Technology,South,16026.72,3647.22,2
+2025-05-31,ORD10082,CUST0039,Home Office,Keyboard,Technology,West,13199.18,3663.93,4
+2025-06-01,ORD10373,CUST0020,Corporate,Monitor,Technology,Central,58352.49,13806.35,3
+2025-06-01,ORD10414,CUST0051,Home Office,Laptop,Technology,South,151822.38,29409.42,3
+2025-06-01,ORD10270,CUST0084,Consumer,Monitor,Technology,Central,46138.06,9054.57,3
+2025-06-02,ORD10308,CUST0106,Corporate,Headphones,Technology,Central,6123.51,1192.84,1
+2025-06-03,ORD10452,CUST0015,Corporate,Office Chair,Furniture,South,24403.49,3105.54,2
+2025-06-04,ORD10155,CUST0076,Home Office,Mobile Phone,Technology,South,207413.51,34164.55,4
+2025-06-05,ORD10419,CUST0147,Consumer,Laptop,Technology,South,255484.99,55775.14,3
+2025-06-05,ORD10053,CUST0123,Consumer,Office Chair,Furniture,West,29281.54,3888.79,3
+2025-06-06,ORD10159,CUST0085,Consumer,Notebook,Office Supplies,East,195.62,21.64,5
+2025-06-07,ORD10060,CUST0069,Consumer,Mobile Phone,Technology,South,61690.96,16068.07,1
+2025-06-08,ORD10003,CUST0076,Home Office,Monitor,Technology,Central,50183.97,4656.8,4
+2025-06-09,ORD10277,CUST0039,Consumer,Monitor,Technology,North,41706.88,9309.81,4
+2025-06-10,ORD10412,CUST0072,Consumer,Office Chair,Furniture,West,11074.28,941.2,3
+2025-06-10,ORD10008,CUST0067,Home Office,Notebook,Office Supplies,Central,454.88,113.61,5
+2025-06-10,ORD10128,CUST0050,Consumer,Keyboard,Technology,East,20145.84,4321.04,5
+2025-06-10,ORD10244,CUST0077,Corporate,Office Chair,Furniture,West,17892.74,3381.19,2
+2025-06-11,ORD10198,CUST0011,Consumer,Office Chair,Furniture,Central,17008.84,2423.38,3
+2025-06-12,ORD10196,CUST0050,Corporate,Keyboard,Technology,West,3060.54,721.28,1
+2025-06-12,ORD10478,CUST0114,Corporate,Notebook,Office Supplies,East,491.27,100.03,5
+2025-06-12,ORD10388,CUST0083,Corporate,Pen Set,Office Supplies,East,958.31,240.87,5
+2025-06-12,ORD10164,CUST0057,Consumer,Mobile Phone,Technology,North,202816.34,48749.01,4
+2025-06-13,ORD10131,CUST0119,Consumer,Printer,Technology,East,52273.0,4828.06,4
+2025-06-14,ORD10365,CUST0099,Corporate,Keyboard,Technology,West,3206.56,373.07,1
+2025-06-14,ORD10201,CUST0118,Consumer,Printer,Technology,East,62312.08,12060.58,4
+2025-06-14,ORD10050,CUST0099,Home Office,Laptop,Technology,East,350459.68,97049.81,5
+2025-06-15,ORD10490,CUST0039,Consumer,Laptop,Technology,West,118540.86,24987.78,2
+2025-06-15,ORD10409,CUST0045,Corporate,Notebook,Office Supplies,East,336.11,33.73,2
+2025-06-15,ORD10431,CUST0104,Consumer,Mobile Phone,Technology,North,113254.07,29792.1,2
+2025-06-16,ORD10434,CUST0106,Consumer,Pen Set,Office Supplies,South,1264.41,232.38,4
+2025-06-16,ORD10268,CUST0005,Home Office,Office Chair,Furniture,South,4075.13,439.62,1
+2025-06-19,ORD10015,CUST0011,Consumer,Office Chair,Furniture,East,8781.45,1882.55,1
+2025-06-19,ORD10338,CUST0102,Home Office,Pen Set,Office Supplies,West,714.72,119.79,3
+2025-06-20,ORD10046,CUST0034,Home Office,Laptop,Technology,South,60402.11,12793.22,1
+2025-06-22,ORD10322,CUST0043,Corporate,Laptop,Technology,East,411241.65,96297.19,5
+2025-06-22,ORD10020,CUST0028,Consumer,Laptop,Technology,East,140453.95,24737.01,2
+2025-06-23,ORD10258,CUST0110,Consumer,Headphones,Technology,South,43320.08,11647.64,5
+2025-06-23,ORD10374,CUST0018,Corporate,Office Chair,Furniture,East,36585.87,6411.93,3
+2025-06-23,ORD10500,CUST0004,Consumer,Pen Set,Office Supplies,North,1277.65,287.24,4
+2025-06-24,ORD10355,CUST0003,Consumer,Printer,Technology,West,37430.2,6880.72,4
+2025-06-24,ORD10230,CUST0107,Corporate,Office Chair,Furniture,North,13103.29,2916.49,1
+2025-06-25,ORD10239,CUST0111,Corporate,Pen Set,Office Supplies,East,362.06,77.37,2
+2025-06-25,ORD10307,CUST0027,Corporate,Laptop,Technology,West,231541.11,37352.13,5
+2025-06-25,ORD10496,CUST0008,Home Office,Headphones,Technology,East,26508.31,3458.01,3
+2025-06-25,ORD10040,CUST0092,Consumer,Monitor,Technology,South,84010.4,10950.09,5
+2025-06-28,ORD10398,CUST0016,Consumer,Monitor,Technology,East,61690.06,17240.04,3
+2025-06-29,ORD10093,CUST0044,Corporate,Desk,Furniture,East,50804.53,13095.33,5
+2025-06-29,ORD10028,CUST0145,Consumer,Printer,Technology,West,6121.55,1610.45,1
+2025-06-30,ORD10044,CUST0041,Consumer,Keyboard,Technology,West,2942.13,698.34,1
+2025-06-30,ORD10226,CUST0148,Corporate,Notebook,Office Supplies,Central,242.21,24.78,4
+2025-07-02,ORD10022,CUST0110,Consumer,Notebook,Office Supplies,East,327.73,64.57,4
+2025-07-02,ORD10090,CUST0144,Home Office,Desk,Furniture,Central,26401.76,4612.26,5
+2025-07-03,ORD10311,CUST0147,Consumer,Monitor,Technology,West,17262.7,4568.48,1
+2025-07-03,ORD10469,CUST0110,Home Office,Desk,Furniture,West,85969.28,14772.89,4
+2025-07-04,ORD10146,CUST0065,Consumer,Laptop,Technology,North,144974.21,20187.8,2
+2025-07-05,ORD10287,CUST0047,Corporate,Notebook,Office Supplies,North,448.41,120.79,3
+2025-07-06,ORD10324,CUST0050,Consumer,Printer,Technology,North,39222.23,9924.66,3
+2025-07-06,ORD10379,CUST0043,Corporate,Pen Set,Office Supplies,North,1038.49,97.75,3
+2025-07-07,ORD10049,CUST0038,Corporate,Office Chair,Furniture,East,48507.75,9338.01,4
+2025-07-07,ORD10493,CUST0013,Consumer,Notebook,Office Supplies,West,339.66,30.48,4
+2025-07-07,ORD10041,CUST0014,Consumer,Keyboard,Technology,Central,4066.63,861.19,5
+2025-07-08,ORD10448,CUST0006,Consumer,Mobile Phone,Technology,North,43795.1,4713.27,2
+2025-07-08,ORD10038,CUST0051,Consumer,Notebook,Office Supplies,East,620.65,114.62,4
+2025-07-09,ORD10285,CUST0081,Corporate,Monitor,Technology,Central,103520.66,12871.7,5
+2025-07-09,ORD10193,CUST0060,Consumer,Laptop,Technology,East,382082.54,47497.33,5
+2025-07-09,ORD10384,CUST0071,Consumer,Laptop,Technology,North,320156.13,77830.13,5
+2025-07-10,ORD10251,CUST0124,Corporate,Laptop,Technology,West,269476.32,35762.18,4
+2025-07-10,ORD10341,CUST0045,Consumer,Mobile Phone,Technology,South,91963.05,16990.77,4
+2025-07-10,ORD10416,CUST0035,Consumer,Keyboard,Technology,West,7081.47,1808.86,2
+2025-07-11,ORD10321,CUST0123,Consumer,Desk,Furniture,North,41447.61,5981.9,3
+2025-07-12,ORD10030,CUST0123,Consumer,Pen Set,Office Supplies,North,1059.59,280.24,3
+2025-07-12,ORD10122,CUST0041,Home Office,Monitor,Technology,Central,13222.73,2684.28,1
+2025-07-12,ORD10112,CUST0099,Consumer,Pen Set,Office Supplies,North,746.63,132.04,4
+2025-07-12,ORD10157,CUST0086,Home Office,Headphones,Technology,East,12978.65,3331.22,3
+2025-07-13,ORD10442,CUST0049,Consumer,Headphones,Technology,West,6143.56,1403.79,5
+2025-07-14,ORD10161,CUST0011,Home Office,Headphones,Technology,South,34102.0,8645.52,5
+2025-07-14,ORD10281,CUST0085,Corporate,Keyboard,Technology,North,8730.35,1159.02,3
+2025-07-15,ORD10481,CUST0130,Consumer,Printer,Technology,West,19713.62,3899.3,2
+2025-07-16,ORD10063,CUST0120,Consumer,Laptop,Technology,West,157619.14,37608.58,2
+2025-07-17,ORD10363,CUST0108,Consumer,Laptop,Technology,South,141079.53,16521.1,2
+2025-07-17,ORD10415,CUST0010,Corporate,Printer,Technology,Central,14762.56,3984.81,1
+2025-07-17,ORD10021,CUST0022,Consumer,Desk,Furniture,South,49015.07,7039.19,3
+2025-07-17,ORD10407,CUST0024,Consumer,Pen Set,Office Supplies,South,482.17,91.71,4
+2025-07-18,ORD10245,CUST0094,Consumer,Notebook,Office Supplies,East,189.15,23.37,2
+2025-07-18,ORD10325,CUST0126,Consumer,Printer,Technology,South,59013.0,15945.84,5
+2025-07-19,ORD10016,CUST0067,Home Office,Office Chair,Furniture,East,11853.01,2346.01,1
+2025-07-19,ORD10142,CUST0104,Corporate,Headphones,Technology,East,41242.17,10640.6,5
+2025-07-19,ORD10480,CUST0075,Consumer,Office Chair,Furniture,West,23467.15,2758.4,3
+2025-07-20,ORD10212,CUST0108,Home Office,Headphones,Technology,West,19265.57,1695.15,3
+2025-07-20,ORD10298,CUST0001,Corporate,Monitor,Technology,North,39423.42,7468.11,2
+2025-07-20,ORD10207,CUST0019,Corporate,Notebook,Office Supplies,Central,415.32,78.49,3
+2025-07-22,ORD10170,CUST0150,Consumer,Printer,Technology,West,67531.32,13148.7,4
+2025-07-23,ORD10045,CUST0036,Corporate,Office Chair,Furniture,North,49711.91,12535.03,4
+2025-07-24,ORD10227,CUST0099,Consumer,Printer,Technology,East,89942.4,14612.24,5
+2025-07-24,ORD10144,CUST0142,Home Office,Headphones,Technology,North,10128.05,1070.71,4
+2025-07-27,ORD10275,CUST0114,Corporate,Mobile Phone,Technology,West,122994.31,10187.04,5
+2025-07-28,ORD10310,CUST0119,Consumer,Headphones,Technology,North,3048.46,688.51,1
+2025-07-28,ORD10068,CUST0138,Consumer,Monitor,Technology,East,68122.75,17835.23,3
+2025-07-29,ORD10267,CUST0092,Consumer,Office Chair,Furniture,Central,17207.2,2072.81,4
+2025-07-30,ORD10147,CUST0036,Consumer,Printer,Technology,North,15488.08,3959.73,1
+2025-08-01,ORD10106,CUST0046,Consumer,Monitor,Technology,East,48342.77,6836.17,5
+2025-08-01,ORD10135,CUST0103,Corporate,Mobile Phone,Technology,Central,58982.68,13635.35,4
+2025-08-01,ORD10186,CUST0001,Consumer,Keyboard,Technology,South,17364.67,3753.14,4
+2025-08-03,ORD10057,CUST0140,Consumer,Monitor,Technology,Central,45222.35,9875.47,2
+2025-08-03,ORD10051,CUST0046,Consumer,Pen Set,Office Supplies,South,229.75,44.2,3
+2025-08-04,ORD10353,CUST0078,Corporate,Printer,Technology,North,11918.94,1146.06,1
+2025-08-05,ORD10339,CUST0070,Consumer,Office Chair,Furniture,West,28797.45,2340.22,3
+2025-08-05,ORD10209,CUST0142,Corporate,Keyboard,Technology,East,14799.43,2592.6,5
+2025-08-05,ORD10444,CUST0016,Corporate,Mobile Phone,Technology,South,40339.99,3339.93,1
+2025-08-07,ORD10222,CUST0012,Corporate,Printer,Technology,North,25354.54,5455.84,4
+2025-08-08,ORD10462,CUST0014,Consumer,Keyboard,Technology,North,2100.49,305.48,1
+2025-08-08,ORD10032,CUST0109,Consumer,Monitor,Technology,Central,52291.75,14061.56,3
+2025-08-09,ORD10260,CUST0130,Corporate,Notebook,Office Supplies,North,713.45,192.19,4
+2025-08-10,ORD10194,CUST0028,Corporate,Desk,Furniture,South,21042.2,1781.4,2
+2025-08-11,ORD10248,CUST0039,Consumer,Monitor,Technology,South,85978.43,21127.44,5
+2025-08-11,ORD10279,CUST0087,Home Office,Printer,Technology,East,37382.17,4367.28,3
+2025-08-13,ORD10304,CUST0015,Consumer,Notebook,Office Supplies,Central,216.59,47.44,3
+2025-08-13,ORD10306,CUST0053,Home Office,Keyboard,Technology,West,15265.94,2502.57,5
+2025-08-13,ORD10422,CUST0143,Home Office,Monitor,Technology,South,51885.38,10994.17,3
+2025-08-14,ORD10354,CUST0025,Home Office,Headphones,Technology,North,6734.16,1282.67,1
+2025-08-15,ORD10024,CUST0068,Consumer,Keyboard,Technology,Central,9736.75,2039.68,3
+2025-08-15,ORD10259,CUST0022,Consumer,Pen Set,Office Supplies,West,296.51,58.91,4
+2025-08-17,ORD10203,CUST0070,Corporate,Pen Set,Office Supplies,South,401.62,63.48,2
+2025-08-17,ORD10076,CUST0008,Home Office,Keyboard,Technology,East,13359.73,3094.91,4
+2025-08-19,ORD10249,CUST0123,Consumer,Headphones,Technology,Central,8261.48,1539.0,1
+2025-08-19,ORD10447,CUST0072,Consumer,Pen Set,Office Supplies,South,514.55,80.19,2
+2025-08-19,ORD10470,CUST0087,Home Office,Pen Set,Office Supplies,West,1362.86,324.47,5
+2025-08-21,ORD10141,CUST0094,Consumer,Laptop,Technology,South,190312.33,23319.91,4
+2025-08-21,ORD10309,CUST0146,Consumer,Office Chair,Furniture,Central,8232.28,1266.9,1
+2025-08-21,ORD10148,CUST0136,Corporate,Desk,Furniture,North,20949.16,4070.49,2
+2025-08-22,ORD10105,CUST0043,Consumer,Office Chair,Furniture,Central,20163.38,4685.76,3
+2025-08-22,ORD10114,CUST0068,Consumer,Headphones,Technology,East,13960.73,3367.3,4
+2025-08-23,ORD10031,CUST0081,Corporate,Desk,Furniture,Central,33782.09,7332.39,4
+2025-08-23,ORD10080,CUST0059,Corporate,Desk,Furniture,North,53766.0,13010.69,4
+2025-08-24,ORD10059,CUST0070,Consumer,Headphones,Technology,East,8925.1,2110.4,1
+2025-08-24,ORD10246,CUST0141,Consumer,Monitor,Technology,East,93880.0,14006.91,4
+2025-08-24,ORD10361,CUST0037,Consumer,Headphones,Technology,Central,7381.14,1622.77,3
+2025-08-26,ORD10392,CUST0074,Corporate,Laptop,Technology,West,85940.71,10594.59,1
+2025-08-26,ORD10426,CUST0144,Consumer,Mobile Phone,Technology,South,18297.86,3337.68,1
+2025-08-28,ORD10178,CUST0111,Home Office,Pen Set,Office Supplies,Central,458.07,77.94,2
+2025-08-28,ORD10347,CUST0036,Corporate,Pen Set,Office Supplies,Central,652.34,124.67,2
+2025-08-29,ORD10218,CUST0015,Consumer,Monitor,Technology,South,24552.52,3765.1,2
+2025-08-30,ORD10313,CUST0102,Consumer,Laptop,Technology,North,53016.04,5311.69,1
+2025-09-01,ORD10123,CUST0150,Corporate,Keyboard,Technology,South,2870.48,628.37,1
+2025-09-02,ORD10039,CUST0002,Consumer,Monitor,Technology,South,71045.48,17228.64,3
+2025-09-02,ORD10367,CUST0142,Home Office,Office Chair,Furniture,Central,17379.96,4424.07,3
+2025-09-04,ORD10197,CUST0007,Home Office,Headphones,Technology,South,12170.5,1011.56,4
+2025-09-04,ORD10368,CUST0085,Corporate,Monitor,Technology,Central,18460.89,2128.38,1
+2025-09-05,ORD10151,CUST0104,Consumer,Printer,Technology,South,32854.64,3249.69,4
+2025-09-06,ORD10213,CUST0012,Corporate,Mobile Phone,Technology,North,107991.66,23381.49,4
+2025-09-07,ORD10103,CUST0004,Consumer,Laptop,Technology,North,444003.45,107643.36,5
+2025-09-08,ORD10421,CUST0052,Consumer,Laptop,Technology,East,313504.27,40302.79,4
+2025-09-08,ORD10404,CUST0007,Corporate,Printer,Technology,West,86085.43,20451.49,5
+2025-09-08,ORD10181,CUST0023,Consumer,Laptop,Technology,Central,52428.54,14556.01,1
+2025-09-09,ORD10397,CUST0014,Corporate,Keyboard,Technology,West,16105.27,2808.07,5
+2025-09-09,ORD10413,CUST0127,Consumer,Laptop,Technology,East,326087.41,34397.44,4
+2025-09-10,ORD10360,CUST0043,Consumer,Printer,Technology,East,33122.92,3058.07,4
+2025-09-11,ORD10261,CUST0022,Consumer,Mobile Phone,Technology,Central,131945.07,18882.31,4
+2025-09-14,ORD10317,CUST0039,Consumer,Office Chair,Furniture,South,26009.05,3615.47,2
+2025-09-16,ORD10065,CUST0059,Consumer,Monitor,Technology,North,76105.55,12773.74,3
+2025-09-16,ORD10315,CUST0128,Consumer,Keyboard,Technology,Central,3897.04,563.67,3
+2025-09-17,ORD10240,CUST0055,Consumer,Monitor,Technology,East,67335.6,17254.52,3
+2025-09-17,ORD10254,CUST0009,Consumer,Headphones,Technology,West,6967.18,823.36,3
+2025-09-19,ORD10291,CUST0112,Consumer,Pen Set,Office Supplies,East,186.81,29.62,2
+2025-09-21,ORD10115,CUST0072,Consumer,Mobile Phone,Technology,Central,43059.17,12036.55,3
+2025-09-21,ORD10323,CUST0012,Home Office,Desk,Furniture,Central,72214.3,9646.03,4
+2025-09-21,ORD10025,CUST0048,Corporate,Office Chair,Furniture,West,16261.88,4204.37,2
+2025-09-22,ORD10220,CUST0029,Consumer,Laptop,Technology,Central,162386.27,27200.88,2
+2025-09-22,ORD10099,CUST0107,Consumer,Monitor,Technology,Central,12556.89,3011.41,1
+2025-09-23,ORD10337,CUST0148,Corporate,Monitor,Technology,North,59591.54,7746.74,4
+2025-09-24,ORD10383,CUST0046,Home Office,Keyboard,Technology,West,9636.17,1757.3,3
+2025-09-24,ORD10318,CUST0054,Consumer,Printer,Technology,South,55620.43,10676.04,4
+2025-09-25,ORD10342,CUST0098,Corporate,Office Chair,Furniture,West,19327.25,4870.49,3
+2025-09-25,ORD10235,CUST0052,Corporate,Headphones,Technology,North,33527.51,6840.15,4
+2025-09-25,ORD10330,CUST0114,Consumer,Office Chair,Furniture,North,40326.28,6673.43,4
+2025-09-25,ORD10064,CUST0138,Consumer,Desk,Furniture,North,31070.3,4357.65,2
+2025-09-27,ORD10034,CUST0131,Home Office,Printer,Technology,Central,43150.81,11858.79,3
+2025-09-27,ORD10475,CUST0002,Corporate,Laptop,Technology,South,228849.86,34675.25,4
+2025-09-27,ORD10453,CUST0025,Consumer,Office Chair,Furniture,North,13337.49,1176.02,2
+2025-09-28,ORD10233,CUST0072,Home Office,Office Chair,Furniture,West,30875.55,3349.74,5
+2025-09-28,ORD10314,CUST0022,Consumer,Monitor,Technology,South,21531.45,5322.23,1
+2025-09-29,ORD10010,CUST0037,Home Office,Pen Set,Office Supplies,West,438.72,37.4,3
+2025-10-01,ORD10152,CUST0007,Consumer,Notebook,Office Supplies,South,246.61,66.7,3
+2025-10-02,ORD10107,CUST0103,Home Office,Keyboard,Technology,West,8607.55,1354.86,5
+2025-10-03,ORD10375,CUST0133,Corporate,Desk,Furniture,North,51618.3,6848.12,3
+2025-10-03,ORD10092,CUST0115,Consumer,Pen Set,Office Supplies,South,129.9,25.78,1
+2025-10-03,ORD10376,CUST0084,Consumer,Pen Set,Office Supplies,East,1047.21,88.13,3
+2025-10-04,ORD10449,CUST0006,Home Office,Laptop,Technology,South,46342.44,6563.27,1
+2025-10-05,ORD10084,CUST0026,Consumer,Keyboard,Technology,South,14493.3,1658.53,5
+2025-10-05,ORD10427,CUST0047,Corporate,Headphones,Technology,South,5642.41,642.89,1
+2025-10-05,ORD10018,CUST0062,Consumer,Laptop,Technology,South,200897.88,17627.69,4
+2025-10-05,ORD10168,CUST0026,Consumer,Pen Set,Office Supplies,Central,1159.98,150.55,3
+2025-10-06,ORD10464,CUST0066,Corporate,Office Chair,Furniture,West,26190.4,5544.65,5
+2025-10-06,ORD10290,CUST0138,Home Office,Office Chair,Furniture,North,21684.39,4511.98,3
+2025-10-07,ORD10437,CUST0027,Home Office,Notebook,Office Supplies,South,293.49,70.32,2
+2025-10-08,ORD10467,CUST0094,Home Office,Pen Set,Office Supplies,South,223.48,47.14,1
+2025-10-08,ORD10062,CUST0083,Consumer,Desk,Furniture,South,18422.49,1498.54,1
+2025-10-09,ORD10011,CUST0025,Consumer,Headphones,Technology,East,3806.84,572.05,1
+2025-10-09,ORD10231,CUST0084,Consumer,Desk,Furniture,North,107827.57,9474.15,5
+2025-10-11,ORD10250,CUST0074,Consumer,Mobile Phone,Technology,East,43063.8,7839.04,1
+2025-10-13,ORD10456,CUST0096,Consumer,Notebook,Office Supplies,West,436.01,77.55,5
+2025-10-14,ORD10351,CUST0055,Consumer,Laptop,Technology,West,172691.82,41682.09,2
+2025-10-15,ORD10468,CUST0109,Consumer,Laptop,Technology,Central,69134.39,8819.27,1
+2025-10-16,ORD10299,CUST0036,Consumer,Office Chair,Furniture,East,36588.13,9144.52,3
+2025-10-17,ORD10483,CUST0020,Consumer,Pen Set,Office Supplies,West,449.96,63.02,5
+2025-10-19,ORD10136,CUST0029,Consumer,Desk,Furniture,South,10950.73,1728.76,1
+2025-10-20,ORD10389,CUST0063,Consumer,Printer,Technology,East,72000.61,5865.86,5
+2025-10-21,ORD10202,CUST0138,Consumer,Mobile Phone,Technology,Central,96452.43,18597.41,5
+2025-10-21,ORD10187,CUST0025,Consumer,Mobile Phone,Technology,East,215994.12,38503.26,4
+2025-10-22,ORD10097,CUST0087,Corporate,Desk,Furniture,East,19483.41,4924.17,1
+2025-10-22,ORD10153,CUST0042,Home Office,Notebook,Office Supplies,East,348.85,30.62,4
+2025-10-23,ORD10217,CUST0035,Home Office,Office Chair,Furniture,Central,19424.13,3201.16,3
+2025-10-23,ORD10438,CUST0073,Consumer,Notebook,Office Supplies,South,141.99,11.91,1
+2025-10-23,ORD10252,CUST0027,Home Office,Printer,Technology,Central,10112.26,2121.76,1
+2025-10-28,ORD10274,CUST0098,Consumer,Monitor,Technology,South,75193.21,7228.78,5
+2025-10-30,ORD10014,CUST0057,Consumer,Notebook,Office Supplies,North,306.53,34.18,2
+2025-10-31,ORD10124,CUST0041,Home Office,Keyboard,Technology,North,9492.82,1062.7,5
+2025-10-31,ORD10009,CUST0021,Consumer,Mobile Phone,Technology,South,119104.57,32018.78,5
+2025-11-01,ORD10457,CUST0005,Consumer,Headphones,Technology,West,1932.24,480.06,2
+2025-11-04,ORD10492,CUST0150,Consumer,Printer,Technology,West,41983.82,10627.68,3
+2025-11-04,ORD10386,CUST0146,Consumer,Headphones,Technology,Central,18895.21,4561.01,4
+2025-11-05,ORD10013,CUST0048,Home Office,Notebook,Office Supplies,East,540.58,80.02,5
+2025-11-05,ORD10382,CUST0132,Corporate,Desk,Furniture,Central,100452.9,13724.58,5
+2025-11-06,ORD10320,CUST0002,Corporate,Keyboard,Technology,South,6638.41,1497.46,2
+2025-11-06,ORD10441,CUST0022,Corporate,Mobile Phone,Technology,North,41323.5,6374.4,2
+2025-11-06,ORD10190,CUST0054,Corporate,Monitor,Technology,North,91544.8,24405.48,4
+2025-11-07,ORD10094,CUST0097,Consumer,Laptop,Technology,West,69484.41,17869.84,1
+2025-11-07,ORD10302,CUST0017,Consumer,Mobile Phone,Technology,South,98587.76,11072.41,2
+2025-11-07,ORD10162,CUST0117,Consumer,Monitor,Technology,North,64227.22,17884.03,3
+2025-11-07,ORD10350,CUST0078,Consumer,Printer,Technology,North,30114.53,6621.73,4
+2025-11-08,ORD10451,CUST0016,Consumer,Headphones,Technology,South,5521.84,1068.32,1
+2025-11-10,ORD10346,CUST0066,Home Office,Laptop,Technology,West,230423.29,64318.97,3
+2025-11-10,ORD10369,CUST0107,Consumer,Printer,Technology,North,45346.84,12481.27,5
+2025-11-10,ORD10116,CUST0095,Consumer,Desk,Furniture,North,19780.77,5075.14,1
+2025-11-12,ORD10257,CUST0141,Consumer,Office Chair,Furniture,West,33004.7,5448.57,5
+2025-11-12,ORD10265,CUST0044,Consumer,Mobile Phone,Technology,North,19597.14,5306.32,1
+2025-11-15,ORD10225,CUST0045,Consumer,Office Chair,Furniture,West,8403.94,1295.26,1
+2025-11-15,ORD10289,CUST0122,Home Office,Laptop,Technology,North,342933.54,62474.07,4
+2025-11-20,ORD10396,CUST0121,Corporate,Pen Set,Office Supplies,West,617.08,122.09,3
+2025-11-22,ORD10204,CUST0047,Home Office,Headphones,Technology,East,4308.07,585.75,1
+2025-11-22,ORD10179,CUST0011,Consumer,Keyboard,Technology,East,2304.87,342.88,1
+2025-11-24,ORD10215,CUST0010,Corporate,Printer,Technology,South,17509.22,3180.88,1
+2025-11-26,ORD10465,CUST0070,Consumer,Printer,Technology,Central,44128.51,11522.99,5
+2025-11-26,ORD10210,CUST0022,Consumer,Office Chair,Furniture,East,50098.39,8153.44,5
+2025-11-27,ORD10134,CUST0029,Corporate,Printer,Technology,North,31812.6,7735.76,5
+2025-11-27,ORD10294,CUST0140,Home Office,Pen Set,Office Supplies,East,627.45,67.17,2
+2025-11-27,ORD10088,CUST0030,Home Office,Notebook,Office Supplies,East,92.58,10.25,2
+2025-12-02,ORD10133,CUST0010,Consumer,Keyboard,Technology,Central,5181.9,701.19,2
+2025-12-03,ORD10229,CUST0027,Home Office,Headphones,Technology,Central,4232.41,945.92,1
+2025-12-03,ORD10042,CUST0092,Consumer,Mobile Phone,Technology,Central,57302.38,10442.48,3
+2025-12-03,ORD10185,CUST0051,Consumer,Laptop,Technology,North,146758.19,39327.44,2
+2025-12-04,ORD10284,CUST0140,Consumer,Monitor,Technology,Central,11761.57,2005.99,1
+2025-12-04,ORD10276,CUST0059,Consumer,Mobile Phone,Technology,East,34094.76,5817.87,2
+2025-12-05,ORD10327,CUST0081,Consumer,Keyboard,Technology,North,13457.01,1487.18,3
+2025-12-05,ORD10026,CUST0003,Consumer,Laptop,Technology,South,46633.76,11706.6,1
+2025-12-05,ORD10356,CUST0020,Consumer,Desk,Furniture,South,34985.77,8988.61,5
+2025-12-06,ORD10472,CUST0074,Corporate,Keyboard,Technology,East,7161.81,733.51,2
+2025-12-06,ORD10027,CUST0080,Corporate,Notebook,Office Supplies,West,106.09,17.49,1
+2025-12-06,ORD10280,CUST0015,Consumer,Laptop,Technology,West,134577.06,14869.86,2
+2025-12-07,ORD10118,CUST0024,Corporate,Mobile Phone,Technology,East,94456.62,17025.03,5
+2025-12-09,ORD10305,CUST0095,Consumer,Monitor,Technology,North,52195.94,8276.79,5
+2025-12-09,ORD10127,CUST0138,Consumer,Keyboard,Technology,Central,3140.62,603.41,1
+2025-12-10,ORD10458,CUST0095,Home Office,Notebook,Office Supplies,West,528.15,111.27,3
+2025-12-10,ORD10072,CUST0145,Consumer,Mobile Phone,Technology,South,143546.61,32904.72,3
+2025-12-11,ORD10089,CUST0009,Consumer,Printer,Technology,South,23625.22,2120.23,2
+2025-12-11,ORD10340,CUST0030,Consumer,Mobile Phone,Technology,West,180323.65,16989.64,3
+2025-12-12,ORD10345,CUST0026,Corporate,Monitor,Technology,North,31462.79,8570.55,2
+2025-12-14,ORD10286,CUST0115,Consumer,Notebook,Office Supplies,North,59.01,8.44,1
+2025-12-14,ORD10390,CUST0041,Consumer,Monitor,Technology,South,27503.85,5586.12,2
+2025-12-14,ORD10224,CUST0091,Consumer,Desk,Furniture,West,29169.4,3835.12,2
+2025-12-17,ORD10223,CUST0121,Consumer,Office Chair,Furniture,South,13467.15,1950.38,1
+2025-12-17,ORD10019,CUST0098,Home Office,Pen Set,Office Supplies,West,223.42,33.8,1
+2025-12-17,ORD10479,CUST0144,Corporate,Monitor,Technology,South,37929.04,6049.49,4
+2025-12-17,ORD10029,CUST0011,Consumer,Notebook,Office Supplies,West,519.42,71.34,3
+2025-12-17,ORD10137,CUST0042,Corporate,Pen Set,Office Supplies,North,701.42,97.82,2
+2025-12-18,ORD10048,CUST0018,Corporate,Monitor,Technology,East,25922.5,6628.24,3
+2025-12-19,ORD10073,CUST0020,Consumer,Monitor,Technology,West,65876.47,13020.73,4
+2025-12-20,ORD10047,CUST0034,Corporate,Headphones,Technology,Central,2064.37,383.42,1
+2025-12-20,ORD10328,CUST0122,Corporate,Monitor,Technology,West,33713.28,5928.64,2
+2025-12-21,ORD10333,CUST0029,Corporate,Desk,Furniture,Central,74108.19,11716.28,4
+2025-12-21,ORD10292,CUST0098,Consumer,Monitor,Technology,Central,38859.55,9690.28,3
+2025-12-21,ORD10296,CUST0063,Consumer,Desk,Furniture,South,45526.62,6055.74,5
+2025-12-23,ORD10498,CUST0010,Corporate,Office Chair,Furniture,West,42697.62,3429.74,4
+2025-12-23,ORD10069,CUST0027,Consumer,Pen Set,Office Supplies,East,247.5,41.69,1
+2025-12-23,ORD10173,CUST0041,Consumer,Headphones,Technology,East,22089.84,2700.23,5
+2025-12-24,ORD10461,CUST0006,Consumer,Printer,Technology,South,31788.06,5219.04,2
+2025-12-25,ORD10474,CUST0074,Corporate,Monitor,Technology,West,46316.39,12932.71,2
+2025-12-25,ORD10473,CUST0036,Corporate,Monitor,Technology,South,68555.11,12681.63,4
+2025-12-26,ORD10130,CUST0050,Corporate,Headphones,Technology,North,34856.66,6963.37,4
+2025-12-26,ORD10169,CUST0070,Corporate,Keyboard,Technology,East,10510.11,2808.89,3
+2025-12-26,ORD10163,CUST0006,Consumer,Office Chair,Furniture,West,37343.64,9204.21,3
+2025-12-26,ORD10132,CUST0069,Home Office,Keyboard,Technology,South,11312.17,1395.12,3
+2025-12-27,ORD10486,CUST0142,Consumer,Keyboard,Technology,Central,8386.32,1968.07,4
+2025-12-27,ORD10362,CUST0054,Home Office,Pen Set,Office Supplies,North,524.53,89.1,3
+2025-12-28,ORD10110,CUST0107,Consumer,Desk,Furniture,South,73857.58,11842.31,4
+2025-12-29,ORD10108,CUST0039,Consumer,Monitor,Technology,East,67745.97,8897.43,3
+2025-12-30,ORD10005,CUST0035,Consumer,Monitor,Technology,North,12913.24,1065.25,1
+2025-12-31,ORD10096,CUST0102,Corporate,Mobile Phone,Technology,Central,74888.49,20933.55,2
+2025-12-31,ORD10033,CUST0015,Consumer,Office Chair,Furniture,Central,18958.18,2040.99,3
